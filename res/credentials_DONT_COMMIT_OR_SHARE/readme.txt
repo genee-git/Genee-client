@@ -1,0 +1,1 @@
+Please contact admin for google credentials file and amazon credentials 

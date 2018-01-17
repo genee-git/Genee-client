@@ -1,0 +1,2 @@
+export GOOGLE_APPLICATION_CREDENTIALS=res/credentials_DONT_COMMIT_OR_SHARE/google-fe3121a1424c.json
+python res/scripts/google_speech_text.py

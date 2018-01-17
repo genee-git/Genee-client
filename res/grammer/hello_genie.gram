@@ -1,0 +1,4 @@
+#JSGF V1.0;
+
+grammar hello_genie;
+public <hello_genie> = (hello|hey|hi) (genie);
